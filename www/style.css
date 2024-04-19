@@ -1,0 +1,19 @@
+body {
+    background-color: #ebebeb;
+}
+
+article {
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    margin: 1.68em auto;
+    max-width: 680px;
+    padding: 1.68em;
+}
+
+h1 {
+    text-align: center;
+}
+
+tr {
+    margin-top: .68em;
+}
